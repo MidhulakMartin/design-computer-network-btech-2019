@@ -1,0 +1,14 @@
+# General
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+# Office artifacts
+*.bak
+*.lock
+# Build/outputs
+/dist/
+/build/
+/out/
+# System
+._*
